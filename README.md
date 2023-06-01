@@ -11,4 +11,4 @@ Here's a overview of the project:
 
     Sorting Data: Two different columns, "trip_distance" and "total_amount," are sorted in descending order to identify the maximum values. This is done using the sort_values() function, which allows arranging the data based on specific column values.
 
-Overall, the project aims to gain a basic understanding of the dataset by exploring its structure, examining data types, and sorting values based on specific columns. Further analysis and visualization can be performed based on this initial exploration to gain insights into the NYC yellow taxi trips dataset.
+Overall, the project aims to gain a basic understanding of the dataset by exploring its structure, examining data types, and sorting values based on specific columns. Further analysis and visualization can be performed based on this initial exploration to gain insights into the NYC yellow taxi trips dataset.,
